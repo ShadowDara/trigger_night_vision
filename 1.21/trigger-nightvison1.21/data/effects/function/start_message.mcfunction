@@ -1,0 +1,3 @@
+tellraw @a ["",{"text":"Trigger Night Vision","bold":true,"color":"blue"},{"text":" by ","color":"gold"},{"text":"ShadowDara","italic":true,"color":"dark_purple"},{"text":" loaded","color":"gold"}]
+tellraw @a ["",{"text":"View ","color":"white"},{"text":"Modrinth Page","bold":true,"italic":true,"color":"dark_green","clickEvent":{"action":"open_url","value":"https://modrinth.com/project/trigger-night-vision"}},{"text":" for more information or help!!!","color":"white"}]
+tellraw @a ["",{"text":"Press ","color":"white"},{"text":"HERE","bold":true,"italic":true,"color":"dark_red","clickEvent":{"action":"run_command","value":"/trigger d4r4 set 1"}},{"text":" to activate or deaktivate the Datapack","color":"white"}]

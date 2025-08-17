@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"NIGHT VISION ","color":"white"},{"text":"ADD ","bold":true,"italic":true,"color":"dark_red","clickEvent":{"action":"run_command","value":"/trigger d4r4 set 2"}},{"text":"CLEAR","bold":true,"italic":true,"color":"dark_green","clickEvent":{"action":"run_command","value":"/trigger d4r4 set 3"}}]
